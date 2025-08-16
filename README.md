@@ -1,4 +1,4 @@
-# LinkedAnsari
+# LinkedinG
 LinkedAnsari is a LinkedIn clone, a social networking platform for professionals.
 
 Home page:
