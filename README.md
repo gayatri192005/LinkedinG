@@ -23,5 +23,3 @@ Profile page:
 
 🔗 Check It Out:
 I invite you to explore LinkedAnsari by visiting 👇
-
-[https://linkedansari.web.app/](https://linkedansari.web.app/)
